@@ -73,7 +73,13 @@ p{
     display: flex;
     flex-direction: column;
     gap: 40px;
+}
 
+.apresentacao__conteudo__redes{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
 }
 
 .apresentacao__conteudo__titulo{
